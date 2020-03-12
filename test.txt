@@ -1,0 +1,98 @@
+P Srinu at 10:06, Mar 12:
+I can see you have Deluxe (OV) SSL
+btreesystems.com
+
+You at 10:06, Mar 12:
+Yes
+
+You at 10:06, Mar 12:
+And, i have got verified successully by provided the required docs too
+
+
+P Srinu at 10:07, Mar 12:
+Give me 2 minutes
+You at 10:08, Mar 12:
+ok
+
+
+P Srinu at 10:09, Mar 12:
+May I know what is the issue are you facing?
+You at 10:11, Mar 12:
+But it is not still applied, i can't see secure symbol while opening my website
+
+
+P Srinu at 10:11, Mar 12:
+Please don't worry, now that you've reached me, let me see what best can be done about this situation.
+You at 10:12, Mar 12:
+ok Srinu..
+
+
+P Srinu at 10:24, Mar 12:
+I see that certificate is issued and installed perfectly on hosting but the website is showing warning triangle instead of Green Pad lock is because of the Mixed Content.
+
+The browser is hiding the Green link/Green Bar because there is mixed/insecure content in the HTML code of the page. The content of the page is the customer's responsibility.
+
+It is simple that they have to make sure every part of the website is redirecting to https and secured.
+
+P Srinu at 10:25, Mar 12:
+The content of the page is the customer's responsibility. Site will shows secured once you resolve the mixed content.
+You at 10:26, Mar 12:
+1 min
+
+
+P Srinu at 10:27, Mar 12:
+Okay sure
+
+You at 10:28, Mar 12:
+My question is, when ever, we install a SSL on a webpage.. it will show, the "lock" symbol.. so that, it can accessed in all corporate and other regions..
+
+
+You at 10:28, Mar 12:
+Is that different SLL from this?
+
+
+P Srinu at 10:29, Mar 12:
+Once you have remove the mixed content then yes you can able to see secure lock symbol on your website.
+
+You at 10:30, Mar 12:
+Can you help me out, how can we remove the mixed content?
+
+
+You at 10:31, Mar 12:
+I am not aware of what is mixed content..
+
+
+You at 10:31, Mar 12:
+And also, now.. i am website is not accessible in the corporate network..
+
+
+You at 10:31, Mar 12:
+Whether, it will be resolved?
+
+
+P Srinu at 10:32, Mar 12:
+Please check under Console of browser by clicking on F12. Then you can see that . I wish I could help you. However I will suggest please check with your web developer. Once you have remove that; Then I am 100 % sure it will work Higher level of credibility and trust.
+
+You at 10:35, Mar 12:
+Thanks much.. My final question is, wheather it will resolve the accessability issue..
+
+
+You at 10:35, Mar 12:
+As my website is not opening in corporate network..
+
+
+P Srinu at 10:37, Mar 12:
+I am able to see access your website without any issue. You can check in the whynopadloock or geopeeker.com as well There is no issue from our end. Please review once with your network provider once
+
+P Srinu at 10:38, Mar 12:
+You can check in the proxsite.com or geopeeker.com*
+
+You at 10:41, Mar 12:
+ok sure.. i will check it up and come back to you guys..
+
+
+P Srinu at 10:42, Mar 12:
+Okay sure.
+
+P Srinu at 10:42, Mar 12:
+Is there anything else I will assist you today?
